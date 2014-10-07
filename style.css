@@ -46,22 +46,22 @@
     float: left;
     width: 300px;
   }
-  
+
   /**
    * Grid (uses inflexible pixel widths)
    */
-   .grid {
-     background: #cc9;
-     padding: 1em;
-     overflow: hidden;
-   }
-   .grid-item {
-     background: #996;
-     float: left;
-     margin: 0 1em 1em 0;
-     padding: 1em;
-     width: 200px;
-     height: 200px;
-   }
-  
+  .grid {
+    background: #cc9;
+    padding: 1em;
+    overflow: hidden;
+  }
+  .grid-item {
+    background: #996;
+    float: left;
+    margin: 0 1em 1em 0;
+    padding: 1em;
+    width: 200px;
+    height: 200px;
+  }
+
 }
